@@ -6,10 +6,7 @@ Um pacote para gerenciamento de transações financeiras, contas e investimentos
 
 primeiro, clone o repositório:
 
-    ```bash
-    git clone https://github.com/seuusuario/finances.git
-    cd finances
-    ```
+    clone este repositorio.
 
 depois, instale as dependências:
 
