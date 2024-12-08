@@ -10,12 +10,12 @@ primeiro, clone o repositório:
 
 depois, instale as dependências:
 
-    ```bash
+    
     pip install -r requirements.txt
-    ```
+    
 
 por fim, instale o pacote:
 
-    ```bash
+    
     pip install .
-    ```
+    
