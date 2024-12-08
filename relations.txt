@@ -1,0 +1,9 @@
+# Relações: 
+
+Há uma relação entre "Transaction" e "Account", pois Transaction é contida por Account. 
+
+Há uma relação entre "Account" e "Client", pois Account é possuída por Client. 
+
+Há uma relação entre "Investment" e "Client", já que Investment é possuído por Client. 
+
+Há uma relação entre "Investment" e "Account", pois Investment pode interagir com "Account" quando vendido.
