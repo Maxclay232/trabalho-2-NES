@@ -6,5 +6,4 @@ setup(
     packages=find_packages(),
     install_requires=["pytest"],
     description="Um pacote para gerenciamento de transações financeiras, contas e investimentos. Criado como trabalho de POO do NES",
-    url="https://github.com/seuusuario/finances"
 )
